@@ -1,8 +1,3 @@
-<style>
-    body { background-color: grey; }
-    pre, pre:not([class]) { background-color: red; }
-</style>
-
 
 **Tokens** 
 São unidades lógicas que representam um ou mais caracteres
